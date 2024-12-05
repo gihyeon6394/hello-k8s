@@ -1,2 +1,9 @@
 # hello-k8s
-kubernetes 를 알아보자
+
+- https://kubernetes.io/docs/concepts/overview/
+
+## contents
+
+- Getting started
+- Concepts
+- Tasks
