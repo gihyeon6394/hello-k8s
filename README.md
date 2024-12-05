@@ -5,5 +5,5 @@
 ## contents
 
 - Getting started
-- Concepts
+- [Concepts](contents/concepts/Concepts.md)
 - Tasks
