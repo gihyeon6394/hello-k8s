@@ -7,6 +7,12 @@
 - k8s는 portable, extensible, opensource 플랫폼
 - 컨테이너화된 worloads와 서비스를 declarative configuration과 automation을 통해 관리
 
+### contents
+
+- [Kubernetes Components](KubernetesComponents.md)
+- Objects In Kubernetes
+- The Kubernetes API
+
 ---
 
 ## Why you need Kubernetes and what it can do
