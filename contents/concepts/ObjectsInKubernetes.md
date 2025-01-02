@@ -5,6 +5,8 @@
 
 k8s object는 k8s system과 cluster의 상태를 표현하기 위한 위한 영구 엔티티, `.yaml` 포맷으로 표현
 
+- [Kubernetes Object Management](KubernetesObjectManagement.md)
+
 ---
 
 ## Understanding Kubernetes objects
