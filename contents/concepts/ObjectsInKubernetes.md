@@ -8,6 +8,7 @@ k8s object는 k8s system과 cluster의 상태를 표현하기 위한 위한 영�
 - [Kubernetes Object Management](KubernetesObjectManagement.md)
 - [Object Names and IDs](ObjectNamesAndIDs.md)
 - [Labels and Selectors](LabelsAndSelectors.md)
+- [Namespaces](Namespaces.md)
 
 ---
 
