@@ -12,6 +12,7 @@ k8s object는 k8s system과 cluster의 상태를 표현하기 위한 위한 영�
 - [Annotations](Annotations.md)
 - [Field Selectors](FieldSelectors.md)
 - [Finalizers](Finalizers.md)
+- [Owners and Dependents](OwnersAndDependents.md)
 
 ---
 
