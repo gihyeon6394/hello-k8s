@@ -5,7 +5,7 @@
 ---
 
 - [Overview](overview.md)
-- Cluster Architecture
+- [Cluster Architecture](clusterArchitecture.md)
 - Containers
 - Workloads
 - Services, Load Balancing, and Networking
