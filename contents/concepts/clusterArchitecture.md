@@ -16,7 +16,7 @@
 ### contents
 
 - [Nodes](Nodes.md)
-- Communication between Nodes and the Control Plane
+- [Communication between Nodes and the Control Plane](CommunicationBetweenNodesAndTheControlPlane.md)
 - Controllers
 - Leases
 - Cloud Controller Manager
