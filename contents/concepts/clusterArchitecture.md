@@ -17,7 +17,7 @@
 
 - [Nodes](Nodes.md)
 - [Communication between Nodes and the Control Plane](CommunicationBetweenNodesAndTheControlPlane.md)
-- Controllers
+- [Controllers](Controllers.md)
 - Leases
 - Cloud Controller Manager
 - About cgroup v2
