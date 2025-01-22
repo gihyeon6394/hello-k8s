@@ -18,7 +18,7 @@
 - [Nodes](Nodes.md)
 - [Communication between Nodes and the Control Plane](CommunicationBetweenNodesAndTheControlPlane.md)
 - [Controllers](Controllers.md)
-- Leases
+- [Leases](Leases.md)
 - Cloud Controller Manager
 - About cgroup v2
 - Container Runtime Interface (CRI)
